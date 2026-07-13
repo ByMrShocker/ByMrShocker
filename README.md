@@ -3,7 +3,12 @@
 > aka. ByMrShocker, 1337Sh0ck3r
 
 I'm an gameplay developer, 3D animator and [OVERLOAD PROJECT](https://github.com/OverloadProject) owner.
+
 Developing games/prototypes on Unreal Engine since 2020 and Minecraft java plugins since 2024.
+
+
+
+
 
 ---
 
@@ -15,6 +20,10 @@ Developing games/prototypes on Unreal Engine since 2020 and Minecraft java plugi
 | [ShockerParticleEffects](https://github.com/ByMrShocker/ShockerParticleEffects)          | <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> </a> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | UE Niagara recreation for Minecraft server | 2025 |
 | [ShockerSimplePhysics](https://github.com/ByMrShocker/ShockerSimplePhysics)         | <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> </a> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | GJK collision system for Minecraft server | 2026 |
 | [DarkAngle]()          | <p align="center"> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="24" height="24"/> </a> | Classic 2d RPG game core with friendly dialogue system and music-sync (JSAB like) battles | 2026 |
+
+
+
+
 
 ---
 
