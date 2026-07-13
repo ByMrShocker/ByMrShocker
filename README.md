@@ -2,14 +2,10 @@
 
 > aka. ByMrShocker, 1337Sh0ck3r
 
-I'm an gameplay developer, 3D animator. 
+I'm an gameplay developer, 3D animator and [OVERLOAD PROJECT](https://github.com/OverloadProject) owner.
 Developing games/prototypes on Unreal Engine since 2020 and Minecraft java plugins since 2024.
 
-@OverloadProject 
-
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
 ## 🚀 Active Projects
 
@@ -20,19 +16,19 @@ Developing games/prototypes on Unreal Engine since 2020 and Minecraft java plugi
 | [ShockerSimplePhysics](https://github.com/ByMrShocker/ShockerSimplePhysics)         | <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> </a> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | GJK collision system for Minecraft server | 2026 |
 | [DarkAngle]()          | <p align="center"> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="24" height="24"/> </a> | Classic 2d RPG game core with friendly dialogue system and music-sync (JSAB like) battles | 2026 |
 
+---
+
+## 💡 May be useful for your minecraft server
+| Plugin | Core | Info | Target version |
+| ------ | ---- | ---- | -------------- |
+| [ShockerChatDisplays](https://github.com/ByMrShocker/ShockerChatDisplays) | <p align="center"> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | Draw player messages above their heads | 1.21 |
+| [ShockerDamageFix](https://github.com/ByMrShocker/ShockerDamageFix) | <p align="center"> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | Replace fall damage method with velocity-based instead of distance | 1.21.1 |
+| [ShockerQuestSystem](https://github.com/ByMrShocker/ShockerQuestSystem) | <p align="center"> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | Extendable quest system | 1.21 |
+| [CoreProtectRestorer](https://github.com/ByMrShocker/CoreProtectRestorer) | <p align="center"> <a href="https://www.papermc.io" target="_blank" rel="noreferrer"> <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="java" width="24" height="24"/> </a> | Place event based restorer | 1.21.4 |
+
+---
 
 <!--
-**ByMrShocker/ByMrShocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+bruh
 -->
 
