@@ -39,7 +39,7 @@ Developing games/prototypes on Unreal Engine since 2020 and Minecraft java plugi
 
 ## 💬 Social
 [![](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&logoWidth=40&label=YouTube%20%E2%A0%80&message=@OverloadProject&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@overload-project)  
-[![](https://img.shields.io/discord/477026331096514571?color=5865F2&label=Discord%20%20%20%20%20%20%E2%A0%80&labelColor=5865F2&logoWidth=40&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.com/invite/bsQJfNfrQV)  
+[![](https://img.shields.io/discord/690088044220776449?color=5865F2&label=Discord%20%20%20%20%20%20%E2%A0%80&labelColor=5865F2&logoWidth=40&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.com/invite/bsQJfNfrQV)  
 <br clear="right"/>
 <!--
 bruh
