@@ -11,7 +11,7 @@ I'm an gameplay developer, 3D animator.
 
 | Project                                                                    | Language | Notes                           | Somethging      |
 | -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
-| [Operation X]() | <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="24" height="24"/> </a>     | Movement FPS shooter       | 1 |
+| [Operation X]() | <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="24" height="24"/> </a>     | Movement FPS shooter       | 1 |
 | []()         | none      | Beginner to pro Python learning | 2 |
 | []()          | none     | React fundamentals & projects   | 3  |
 
