@@ -9,9 +9,9 @@ I'm an gameplay developer, 3D animator.
 
 ## 🚀 Projects
 
-| Project                                                                    | Language | Notes                           | Somethging      |
+| Project                                                                    | Language / Engine | Notes                           | Start year     |
 | -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
-| [Operation X]() | <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="24" height="24"/> </a>     | Movement FPS shooter       | 1 |
+| [Operation X]() | <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="24" height="24"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>   | Movement FPS shooter       | 2022 |
 | []()         | none      | Beginner to pro Python learning | 2 |
 | []()          | none     | React fundamentals & projects   | 3  |
 
